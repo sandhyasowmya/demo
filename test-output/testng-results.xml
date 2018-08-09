@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53743" started-at="2018-08-07T13:49:51Z" finished-at="2018-08-07T13:50:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53743" started-at="2018-08-07T13:49:51Z" finished-at="2018-08-07T13:50:45Z">
+      <class name="IMSS_P1.demo.pgmTest">
+        <test-method status="PASS" signature="url()[pri:0, instance:IMSS_P1.demo.pgmTest@1e7c7811]" name="url" is-config="true" duration-ms="27476" started-at="2018-08-07T13:49:51Z" finished-at="2018-08-07T13:50:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method status="PASS" signature="jqueryProcessBar()[pri:0, instance:IMSS_P1.demo.pgmTest@1e7c7811]" name="jqueryProcessBar" duration-ms="26216" started-at="2018-08-07T13:50:19Z" finished-at="2018-08-07T13:50:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jqueryProcessBar -->
+      </class> <!-- IMSS_P1.demo.pgmTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
